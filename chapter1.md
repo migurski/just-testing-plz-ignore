@@ -52,7 +52,7 @@
 "title-es": |-
   CAPÍTULO I: PROPÓSITOS Y PRINCIPIOS
 "title-zh-cn": |-
-  第一章：宗旨及原则
+  第一章：宗旨及原则, Y’all
 ---
 Article 1
 ---------
