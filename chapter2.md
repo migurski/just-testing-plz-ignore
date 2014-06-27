@@ -1,38 +1,5 @@
 ---
-layout: multi
-
-title: |-
-  CHAPTER II: MEMBERSHIP
-
-title-zh-cn: |-
-  第二章：会员
-
-body-zh-cn: |-
-  第三条
-  ---
-
-  凡曾经参加金山联合国国际组织会议或前此曾签字于一九四二年一月一日联合国宣言之国家，签订本宪章，且依宪章第一百一十条规定而予以批准者，均为联合国之创始会员国。
-
-  第四条
-  ---
-
-  1. 凡其他爱好和平之国家，接受本宪章所载之义务，经本组织认为确能并愿意履行该项义务者，得为联合国会员国。
-  2. 准许上述国家为联合国会员国，将由大会经安全理事会之推荐以决议行之。
-
-  第五条
-  ---
-
-  联合国会员国，业经安全理事会对其采取防止或执行行动者，大会经安全理事会之建议，得停止其会员权利及特权之行使。此项权利及特权之行使，得由安全理事会恢复之。
-
-  第六条
-  ---
-
-  联合国之会员国中，有屡次违犯本宪章所载之原则者，大会经安全理事会之建议，得将其由本组织除名。
-
-title-es: |-
-  CAPÍTULO II: MIEMBROS
-
-body-es: |-
+"body-es": |-
   Artículo 3
   ----------
 
@@ -53,10 +20,37 @@ body-es: |-
   ----------
 
   Todo Miembro de las Naciones Unidas que haya violado repetidamente los Principios contenidos en esta Carta podrá ser expulsado de la Organización por la Asamblea General a recomendación del Consejo de Seguridad.
+"body-zh-cn": |-
+  第三条
+  ---
 
+  凡曾经参加金山联合国国际组织会议或前此曾签字于一九四二年一月一日联合国宣言之国家，签订本宪章，且依宪章第一百一十条规定而予以批准者，均为联合国之创始会员国。
+
+  第四条
+  ---
+
+  1. 凡其他爱好和平之国家，接受本宪章所载之义务，经本组织认为确能并愿意履行该项义务者，得为联合国会员国。
+  2. 准许上述国家为联合国会员国，将由大会经安全理事会之推荐以决议行之。
+
+  第五条
+  ---
+
+  联合国会员国，业经安全理事会对其采取防止或执行行动者，大会经安全理事会之建议，得停止其会员权利及特权之行使。此项权利及特权之行使，得由安全理事会恢复之。
+
+  第六条
+  ---
+
+  联合国之会员国中，有屡次违犯本宪章所载之原则者，大会经安全理事会之建议，得将其由本组织除名。
+"layout": |-
+  multi
+"title": |-
+  CHAPTER II: MEMBERSHIP
+"title-es": |-
+  CAPÍTULO II: MIEMBROS
+"title-zh-cn": |-
+  第二章：会员
 ---
-
-Article 3
+Article 3…
 ---------
 
 The original Members of the United Nations shall be the states which, having participated in the United Nations Conference on International Organization at San Francisco, or having previously signed the Declaration by United Nations of 1 January 1942, sign the present Charter and ratify it in accordance with Article 110.
