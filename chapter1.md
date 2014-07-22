@@ -48,7 +48,7 @@
 "layout": |-
   multi
 "title": |-
-  CHAPTER I, PURPOSES AND PRINCIPLES Y’all
+  CHAPTER I, PURPOSES AND PRINCIPLES
 "title-es": |-
   CAPÍTULO I: PROPÓSITOS Y PRINCIPIOS
 "title-zh-cn": |-
