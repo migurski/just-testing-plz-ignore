@@ -25,9 +25,9 @@
 "layout": |-
   multi
 "title": |-
-  CHAPTER I, PURPOSES AND PRINCIPLES Y’all
+  CHAPTER I, PURPOSES AND PRINCIPLES Y’all!
 "title-es": |-
-  CAPÍTULO I: PROPÓSITOS Y PRINCIPIOS
+  CAPÍTULO I: PROPÓSITOS Y PRINCIPIOS!
 ---
 Article 1
 ---------
