@@ -1,46 +1,8 @@
 ---
-"body-es": |-
-  Artículo 1
-  ----------
-
-  Los propósitos de las Naciones Unidas son:
-
-  1. Mantener la paz y la seguridad internacionales, y con tal fin: tomar medidas colectivas eficaces para prevenir y eliminar amenazas a la paz, y para suprimir actos de agresión u otros quebrantamientos de la paz; y lograr por medios pacíficos, y de conformidad con los principios de la justicia y del derecho internacional, el ajuste o arreglo de controversias o situaciones internacionales susceptibles de conducir a quebrantamientos de la paz;
-  2. Fomentar entre las naciones relaciones de amistad basadas en el respeto al principio de la igualdad de derechos y al de la libre determinación de los pueblos, y tomar otros medidas adecuadas para fortalecer la paz universal;
-  3. Realizar la cooperación internacional en la solución de problemas internacionales de carácter económico, social, cultural o humanitario, y en el desarrollo y estímulo del respeto a los derechos humanos y a las libertades fundamentales de todos, sin hacer distinción por motivos de raza, sexo, idioma o religion; y
-  4. Servir de centro que armonice los esfuerzos de las naciones por alcanzar estos propósitos comunes.
-
-  Artículo 2
-  ----------
-
-  Para la realización de los Propósitos consignados en el Artículo 1, la Organización y sus Miembros procederán de acuerdo con los siguientes Principios:
-
-  1. La Organización esta basada en el principio de la igualdad soberana de todos sus Miembros.
-  2. Los Miembros de la Organización, a fin de asegurarse los derechos y beneficios inherentes a su condición de tales, cumplirán de buena fe las obligaciones contraidas por ellos de conformidad con esta Carta.
-  3. Los Miembros de la Organización arreglarán sus controversias internacionales por medios pacificos de tal manera que no se pongan en peligro ni la paz y la seguridad internacionales ni la justicia.
-  4. Los Miembros de la Organización, en sus relaciones internacionales, se abstendrán de recurrir a la amenaza o al uso de la fuerza contra la integridad territorial o la independencia política de cualquier Estado, o en cualquier otra forma incompatible con los Propósitos de las Naciones Unidas.
-  5. Los Miembros de la Organización prestarón a ésta toda clase de ayuda en cualquier acción que ejerza de conformidad con esta Carta, y se abstendran de dar ayuda a Estado alguno contra el cual la Organización estuviere ejerciendo acción preventiva o coercitiva.
-  6. La Organización hará que los Estados que no son Miembros de las Naciones Unidas se conduzcan de acuerdo con estos Principios en la medida que sea necesaria para mantener la paz y la seguridad internacionales.
-  7. Ninguna disposición de esta Carta autorizará a las Naciones Unidas a intervenir en los asuntos que son esencialmente de la jurisdicción interna de los Estados, ni obligará; a los Miembros a someter dichos asuntos a procedimientos de arreglo conforme a la presente Carta; pero este principio no se opone a la aplicación de las medidas coercitivas prescritas en el Capítulo VII.
-"body-zh-cn": |
-  第七条
-  ---
-
-  1. 兹设联合国之主要机关如下：大会、安全理事会、经济及社会理事会、托管理事会、国际法院、及秘书处。
-  2. 联合国得依本宪章设立认为必需之辅助机关。
-
-  第八条
-  ---
-
-  联合国对于男女均得在其主要及辅助机关在平等条件之下，充任任何职务，不得加以限制。
 "layout": |-
   multi
 "title": |-
   CHAPTER I, PURPOSES AND PRINCIPLES Y’all!
-"title-es": |-
-  CAPÍTULO I: PROPÓSITOS Y PRINCIPIOS!
-"title-zh-cn": |-
-  第三章：机关
 ---
 Article 1
 ---------
