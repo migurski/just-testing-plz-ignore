@@ -22,37 +22,12 @@
   5. Los Miembros de la Organización prestarón a ésta toda clase de ayuda en cualquier acción que ejerza de conformidad con esta Carta, y se abstendran de dar ayuda a Estado alguno contra el cual la Organización estuviere ejerciendo acción preventiva o coercitiva.
   6. La Organización hará que los Estados que no son Miembros de las Naciones Unidas se conduzcan de acuerdo con estos Principios en la medida que sea necesaria para mantener la paz y la seguridad internacionales.
   7. Ninguna disposición de esta Carta autorizará a las Naciones Unidas a intervenir en los asuntos que son esencialmente de la jurisdicción interna de los Estados, ni obligará; a los Miembros a someter dichos asuntos a procedimientos de arreglo conforme a la presente Carta; pero este principio no se opone a la aplicación de las medidas coercitivas prescritas en el Capítulo VII.
-"body-zh-cn": |-
-  第一条
-  -----
-
-  联合国之宗旨为：
-
-  1. 维持国际和平及安全；并为此目的：采取有效集体办法，以防止且消除对于和平之威胁，制止侵略行为或其他和平之破坏；并以和平方法且依正义及国际法之原则，调整或解决足以破坏和平之国际争端或情势。
-  2. 发展国际间以尊重人民平等权利及自决原则为根据之友好关系，并采取其他适当办法，以增强普遍和平。
-  3. 促成国际合作，以解决国际间属于经济、社会、文化及人类福利性质之国际问题，且不分种族、性别、语言或宗教，增进并激励对于全体人类之人权及基本自由之尊重。
-  4. 构成一协调各国行动之中心，以达成上述共同目的。
-
-  第二条
-  -----
-
-  为求实现第一条所述各宗旨起见，本组织及其会员国应遵行下列原则：
-
-  1. 本组织系基于各会员国主权平等之原则。
-  2. 各会员国应一秉善意，履行其依本宪章所担负之义务，以保证全体会员国由加入本组织而发生之权益。
-  3. 各会员国应以和平方法解决其国际争端，俾免危及国际和平、安全及正义。
-  4. 各会员国在其国际关系上不得使用威胁或武力，或以与联合国宗旨不符之任何其他方法，侵害任何会员国或国家之领土完整或政治独立。
-  5. 各会员国对于联合国依本宪章规定而采取之行动，应尽力予以协助，联合国对于任何国家正在采取防止或执行行动时，各会员国对该国不得给予协助。
-  6. 本组织在维持国际和平及安全之必要范围内，应保证非联合国会员国遵行上述原则。
-  7. 本宪章不得认为授权联合国干涉在本质上属于任何国家国内管辖之事件，且并不要求会员国将该项事件依本宪章提请解决；但此项原则不妨碍第七章内执行办法之适用。
 "layout": |-
   multi
 "title": |-
   CHAPTER I, PURPOSES AND PRINCIPLES Y’all
 "title-es": |-
   CAPÍTULO I: PROPÓSITOS Y PRINCIPIOS
-"title-zh-cn": |-
-  第一章：宗旨及原则
 ---
 Article 1
 ---------
