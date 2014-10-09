@@ -22,12 +22,25 @@
   5. Los Miembros de la Organización prestarón a ésta toda clase de ayuda en cualquier acción que ejerza de conformidad con esta Carta, y se abstendran de dar ayuda a Estado alguno contra el cual la Organización estuviere ejerciendo acción preventiva o coercitiva.
   6. La Organización hará que los Estados que no son Miembros de las Naciones Unidas se conduzcan de acuerdo con estos Principios en la medida que sea necesaria para mantener la paz y la seguridad internacionales.
   7. Ninguna disposición de esta Carta autorizará a las Naciones Unidas a intervenir en los asuntos que son esencialmente de la jurisdicción interna de los Estados, ni obligará; a los Miembros a someter dichos asuntos a procedimientos de arreglo conforme a la presente Carta; pero este principio no se opone a la aplicación de las medidas coercitivas prescritas en el Capítulo VII.
+"body-zh-cn": |
+  第七条
+  ---
+
+  1. 兹设联合国之主要机关如下：大会、安全理事会、经济及社会理事会、托管理事会、国际法院、及秘书处。
+  2. 联合国得依本宪章设立认为必需之辅助机关。
+
+  第八条
+  ---
+
+  联合国对于男女均得在其主要及辅助机关在平等条件之下，充任任何职务，不得加以限制。
 "layout": |-
   multi
 "title": |-
   CHAPTER I, PURPOSES AND PRINCIPLES Y’all!
 "title-es": |-
   CAPÍTULO I: PROPÓSITOS Y PRINCIPIOS!
+"title-zh-cn": |-
+  第三章：机关
 ---
 Article 1
 ---------
